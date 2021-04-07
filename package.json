@@ -1,0 +1,29 @@
+{
+  "name": "js-translation",
+  "version": "1.0.0",
+  "description": "JS Translation app",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-forward-innovation/js-translation.git"
+  },
+  "author": "Jason Yarrington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fast-forward-innovation/js-translation/issues"
+  },
+  "homepage": "https://github.com/fast-forward-innovation/js-translation#readme",
+  "devDependencies": {
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
